@@ -124,7 +124,7 @@ Me chamo Lucas Matheus Ferreira da Rocha, tenho 20 anos e sou de Parnamirim/RN. 
       <p>Simulação do jogo sudoku feito em C++ via terminal no 2° semestre de CC.</p>
       <p>
         <a href="https://github.com/Lucasmath07/sudoku">
-          <img src="https://img.shields.io/badge/Ver Projeto-181717?style=for-the-badge&logo=github"/>
+         <!-- <img src="https://img.shields.io/badge/Ver Projeto-181717?style=for-the-badge&logo=github"/> -->
         </a>
       </p>
     </td>
@@ -134,7 +134,7 @@ Me chamo Lucas Matheus Ferreira da Rocha, tenho 20 anos e sou de Parnamirim/RN. 
       <p>Geração de animação de gráficos de barras a partir de dados em C++.</p>
       <p>
         <a href="https://github.com/Lucasmath07/barchart">
-          <img src="https://img.shields.io/badge/Ver Projeto-181717?style=for-the-badge&logo=github"/>
+          <!--<img src="https://img.shields.io/badge/Ver Projeto-181717?style=for-the-badge&logo=github"/> -->
         </a>
       </p>
     </td>
