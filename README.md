@@ -46,12 +46,20 @@ Me chamo Lucas Matheus Ferreira da Rocha, tenho 20 anos e sou de Parnamirim/RN. 
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
-<p align="center">
-  <img alt="GitHub Stats" height="190" src="https://github-readme-stats.vercel.app/api?username=Lucasmath07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img alt="Top Langs" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmath07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=12" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img alt="Estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucasmath07&theme=tokyonight" />
+      </td>
+      <td align="center">
+        <img alt="Linguagens Mais Usadas" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucasmath07&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
