@@ -2,7 +2,7 @@
 
 **Estudante de Ciência da Computação**
 
-Me chamo Lucas Matheus Ferreira da Rocha, tenho 20 anos e sou de Parnamirim/RN. Cursei um ensino médio/técnico em Mecatrônica no IFRN campus Parnamirim. Atualmente sou discente do curso de Ciência da computação na UFRN. Gosto muito de desenvolvimento de software, atualmente faço parte da equipe de desenvolvimento e comercial da **<a href="https://poticode.com.br/">PotiCode<a/>**.
+Me chamo Lucas Matheus Ferreira da Rocha, tenho 21 anos e sou de Parnamirim/RN. Cursei um ensino médio/técnico em Mecatrônica no IFRN campus Parnamirim. Atualmente sou discente do curso de Ciência da computação na UFRN. Gosto muito de desenvolvimento de software, atualmente faço parte da equipe de desenvolvimento e comercial da **<a href="https://poticode.com.br/">PotiCode<a/>**.
 
 <p align="left">
   <a href="https://github.com/Lucasmath07?tab=repositories&sort=stargazers">
